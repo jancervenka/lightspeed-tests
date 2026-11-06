@@ -1,0 +1,5 @@
+# See https://www.kubernetes.dev/docs/guide/owners/#owners-spec
+approvers:
+  - core
+reviewers:
+  - core

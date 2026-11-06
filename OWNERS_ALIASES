@@ -1,0 +1,8 @@
+# Keep the Lightspeed core owners aligned with lightspeed-operator.
+# See https://www.kubernetes.dev/docs/guide/owners/#owners_aliases-spec
+aliases:
+  core:
+    - umago
+    - lpiwowar
+    - Akrog
+    - jancervenka
